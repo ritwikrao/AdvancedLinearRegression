@@ -1,5 +1,5 @@
 # Project Name
-> Linear Regression on Bike Sharing
+> Advanced Linear Regression on Australian Housing Dataset
 
 
 ## Table of Contents
